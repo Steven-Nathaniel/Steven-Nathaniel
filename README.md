@@ -13,6 +13,10 @@ Mahasiswa S1 Sistem Informasi di **Universitas Multimedia Nusantara** yang berfo
 | [Risiko Sourcing FMCG & Perubahan Iklim](https://github.com/Steven-Nathaniel/fmcg-sourcing-risk-tableau) | Tableau | Dashboard 34 provinsi, 41 variabel, indeks komposit dan forecasting |
 | [Data Warehouse Publikasi Riset UMN](https://github.com/Steven-Nathaniel/umn-publication-data-warehouse) | Power BI, DAX | Skema data warehouse dan dashboard untuk 601 publikasi |
 | [Analisis Biaya Klaim Asuransi](https://github.com/Steven-Nathaniel/insurance-claim-analysis-bigquery) | BigQuery, SQL, BigQuery ML | Staging, data quality, dan regresi biaya klaim dari 201.876 baris |
+| [COVID-19 dan Mobilitas Masyarakat Indonesia](https://github.com/Steven-Nathaniel/covid19-mobility-indonesia) | Python, scikit-learn, XGBoost | Prediksi kasus baru harian dari data mobilitas Google, Random Forest R² 0,77 |
+| [Statistik Keletihan Belajar Mahasiswa](https://github.com/Steven-Nathaniel/library-fatigue-statistics-r) | R, R Markdown | Survei 54 responden, uji normalitas, korelasi, dan regresi linear (R² 0,356) |
+
+Setiap repositori berisi kode, screenshot, serta laporan atau paper lengkap di folder `laporan/`.
 
 ## Kontak
 [LinkedIn](https://www.linkedin.com/in/steven-nathaniel-71877b324) · stevnataniel@gmail.com
